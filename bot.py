@@ -75,7 +75,7 @@ def main():
                           port=PORT,
                           url_path="1759269659:AAHQ9E5mhsaqwH-Lz_Vi5gTufB87_53dBVU")
     # updater.bot.set_webhook(url=settings.WEBHOOK_URL)
-    updater.bot.set_webhook("John0Isaac_Bot" + "1759269659:AAHQ9E5mhsaqwH-Lz_Vi5gTufB87_53dBVU")
+    updater.bot.set_webhook("john0isaac-bot" + "1759269659:AAHQ9E5mhsaqwH-Lz_Vi5gTufB87_53dBVU")
 
     # Run the bot until you press Ctrl-C or the process receives SIGINT,
     # SIGTERM or SIGABRT. This should be used most of the time, since
